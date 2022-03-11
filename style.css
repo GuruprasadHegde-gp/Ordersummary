@@ -1,0 +1,88 @@
+body{
+    background-color: #D7E1FE;
+    background-image:url(images/pattern-background-desktop.jpg);
+    background-size: 100%;
+    font-family: 'Red Hat Display', sans-serif;
+    background-repeat: no-repeat;
+    
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+i{
+    color: grey;
+    position: relative;
+    top: 7px;
+    padding-left: 10px;
+    
+}
+.container-fluid{
+    margin-top: 100px;
+    padding-top: 15px;
+    height: 600px;
+    width: 400px;
+    border-radius: 25px;
+    background-color: hsl(225, 100%, 98%);
+}
+.change_plan{
+    padding-top: 10px;
+    padding-left: 55px;
+}
+.pricing{
+    color: 000;
+    font-size: small
+}
+
+.content{
+    width: 90%;
+    padding-left:35px;
+    margin-bottom:25px;
+    
+    text-align: center;
+    font-size: medium;
+}
+.order_sum{
+    text-align: center;
+    padding: auto;
+}
+.annual_plan{
+    position: relative;
+    bottom: 25px;
+    left: 87px;
+}
+.music_image{
+    padding-left: 10px;
+}
+.change_link{
+    position: relative;
+    bottom: 97px;
+    left: 291px;   
+}
+.container{
+    background-color: hsl(225, 100%, 98%);
+    max-height: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    
+    
+   
+}
+.cancel-order{
+    text-align: center;
+    padding-top: 28px;
+}
+/* BUTTONS */
+.btn{
+    
+    margin-top:20px;
+    margin-left: 78px;
+    border-radius: 10px;
+}
+.hero_image{
+    max-width: 100%;
+    padding-bottom: 20px;
+}
